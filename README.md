@@ -309,7 +309,7 @@ Creative studio specializing in photography, design, and branding
 
 Full-stack developer specializing in modern web applications
 
-[![GitHub](https://img.shields.io/badge/GitHub-levantedev-181717?style=for-the-badge&logo=github)](https://github.com/levantedev)
+[![GitHub](https://img.shields.io/badge/GitHub-grkmdev-181717?style=for-the-badge&logo=github)](https://github.com/grkmdev)
 [![Discord](https://img.shields.io/badge/Discord-Contact_Me-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/321388488140390413)
 
 *For website development inquiries and technical questions*
